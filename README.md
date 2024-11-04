@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TrudyB-T
 - 👀 I’m interested in health sciences
+- ✨ I am an aspiring web developer
 - 🌱 I’m currently learning how to create using the MERN stack
 - 💞️ I’m looking to collaborate on Node.js projects
 - 😄 Pronouns: She/Her
