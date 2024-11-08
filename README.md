@@ -35,6 +35,7 @@
 
 ## 🚀 Current Projects
 1. **Personal Portfolio Website:** A responsive and dynamic portfolio showcasing my skills and projects.
+2. ** Dish Dive ** : A comprehensive recipe API designed to source recipes from around the world, providing users with access to a diverse range of dishes.
 
 
 ## 🌐 How to Reach Me
